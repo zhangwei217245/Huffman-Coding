@@ -37,3 +37,6 @@ subject to the following conditions:
   liability, whether in an action of contract, tort or otherwise, arising from,
   out of or in connection with the Software or the use or other dealings in the
   Software.
+
+
+[A simple example of haffman coding on a string](http://www.tuicool.com/articles/FZZZJz)
